@@ -1,0 +1,97 @@
+
+甜品站.png
+size: 1659,1039
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 2, 317
+  size: 720, 1600
+  orig: 722, 1602
+  offset: 1, 1
+  index: -1
+条
+  rotate: true
+  xy: 2, 2
+  size: 26, 411
+  orig: 28, 413
+  offset: 1, 1
+  index: -1
+桌子
+  rotate: false
+  xy: 2, 30
+  size: 428, 285
+  orig: 430, 287
+  offset: 1, 1
+  index: -1
+灯1
+  rotate: false
+  xy: 1539, 107
+  size: 118, 208
+  orig: 120, 210
+  offset: 1, 1
+  index: -1
+灯2
+  rotate: false
+  xy: 1539, 107
+  size: 118, 208
+  orig: 120, 210
+  offset: 1, 1
+  index: -1
+灯3
+  rotate: false
+  xy: 1539, 107
+  size: 118, 208
+  orig: 120, 210
+  offset: 1, 1
+  index: -1
+甜煎饼
+  rotate: true
+  xy: 1604, 507
+  size: 51, 42
+  orig: 53, 44
+  offset: 1, 1
+  index: -1
+组
+  rotate: true
+  xy: 1604, 560
+  size: 477, 42
+  orig: 479, 44
+  offset: 1, 1
+  index: -1
+草莓蛋糕
+  rotate: false
+  xy: 857, 69
+  size: 47, 38
+  orig: 49, 40
+  offset: 1, 1
+  index: -1
+蛋糕
+  rotate: false
+  xy: 781, 40
+  size: 74, 67
+  orig: 76, 69
+  offset: 1, 1
+  index: -1
+门1
+  rotate: true
+  xy: 781, 109
+  size: 206, 377
+  orig: 208, 379
+  offset: 1, 1
+  index: -1
+门2
+  rotate: true
+  xy: 1160, 109
+  size: 206, 377
+  orig: 208, 379
+  offset: 1, 1
+  index: -1
+食品
+  rotate: false
+  xy: 432, 11
+  size: 347, 304
+  orig: 349, 306
+  offset: 1, 1
+  index: -1
